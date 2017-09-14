@@ -1,6 +1,6 @@
 # Ejercicios de Programacion
 
-### Este repositorio es un catalogo con diferentes ejercicios de programacion. (Algunos con soluciones incluidas)
+### Este repositorio es un catalogo con diferentes ejercicios de programacion. (Algunos con soluciones incluidas en la carpeta src)
 
 ## Ejercicios iniciales
 
