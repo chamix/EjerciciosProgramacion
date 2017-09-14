@@ -2,6 +2,19 @@
 
 ### Este repositorio es un catalogo con diferentes ejercicios de programacion. (Algunos con soluciones incluidas)
 
+## Ejercicios iniciales
+
+1. Hacer un proceso que calculo la suma de 1 hasta un número N
+2. Dado un array con N números, recorrerlo y contar cuántos de esos números son pares y cuántos impares. Para saber si un número es par realizamos la operación numero % 2, si el resultado es 0 el número es par, sino el número es impar. (ej. 6 % 2 = 0, 5 % 2 = 1)
+3. Dado un array con N núemeros, recorrerlo y encontrar el menor.
+4. Realizar un proceso que pida N palabras mediante la función prompt() y mostrar la concatenación de las palabras separadas por espacios.
+5. Realizar un proceso que pida ingresar paralabras mediante prompt() hasta que la palabra ingresada sea "final".
+6. Realizar un proceso que pida ingresar N números mediante prompt() y calcule la suma de ellos. (hay que usar parseInt para transformar en número entero el valor ingresado en prompt())
+7. Realizar un proceso que pida ingresar números mediante prompt() y calcule cuál es el número mayor ingresado. Deberá dejar de pedir números cuando ingrese la palabra "final".
+8. Crear una función que calcule la suma de 1 hasta un número N. El número N debe ser pasado como parámetro de la función.
+9. Crear una función que dado un número N como parámetro, muestre los primeros N números de la serie de Fibonacci
+10. Crear una función que calcule el factorial de un número N.
+
 ## Ejercios con strings
 
 1. Desarrolle una función que devuelva una cadena con un caracter repetido n veces.
