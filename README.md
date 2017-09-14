@@ -3,7 +3,7 @@
 ### Este repositorio es un catalogo con diferentes ejercicios de programacion. (Algunos con soluciones incluidas)
 
 ## Ejercios con strings
----
+
 1. Desarrolle una función que devuelva una cadena con un caracter repetido n veces.
 
 2. Implemente una función que elimine los caracteres en blanco a la izquierda de una cadena y retorne esta sin los espacios en blanco a la izquierda.
